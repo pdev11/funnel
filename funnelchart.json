@@ -15,21 +15,8 @@
 			"url": "https://pdev11.github.io/funnel/funnelchart.js",
 			"integrity": "",
 			"ignoreIntegrity": true
-		},
-		{
-			"kind": "styling",
-			"tag": "com-peu2kor-sac-funnelchart-styling",
-			"url": "https://pdev11.github.io/funnel/funnelchart_styling.js",
-			"integrity": "",
-			"ignoreIntegrity": true
-		},
-		{
-			"kind": "builder",
-			"tag": "com-peu2kor-sac-funnelchart-builder",
-			"url": "https://pdev11.github.io/funnel/funnelchart_builder.js",
-			"integrity": "",
-			"ignoreIntegrity": true
 		}
+		
 	],
 	"properties": {
 		"datasourceString": {
